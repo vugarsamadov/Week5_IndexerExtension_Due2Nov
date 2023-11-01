@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\bin\Debug\net7.0\Week5_IndexerExtension_Due2Nov.exe
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\bin\Debug\net7.0\Week5_IndexerExtension_Due2Nov.deps.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\bin\Debug\net7.0\Week5_IndexerExtension_Due2Nov.runtimeconfig.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\bin\Debug\net7.0\Week5_IndexerExtension_Due2Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\bin\Debug\net7.0\Week5_IndexerExtension_Due2Nov.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\refint\Week5_IndexerExtension_Due2Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\Week5_IndexerExtension_Due2Nov.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_IndexerExtension_Due2Nov\obj\Debug\net7.0\ref\Week5_IndexerExtension_Due2Nov.dll
